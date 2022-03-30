@@ -5,7 +5,7 @@ public class FizzBuzz
     String processNumber(int num)
 	{	
     	// Copy your code here
-		return "";
+		return "1";
 	}
 	
 	String processNumbers (int[] numList)
