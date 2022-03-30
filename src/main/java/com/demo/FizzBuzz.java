@@ -6,7 +6,7 @@ public class FizzBuzz
 	{	
     	String result=Integer.toString(num);
 		if (num %3 ==0 && num %5 ==0) {
-			result = "Fizzbuzz";
+			result = "FizzBuzz";
 		}
 		else if (num%3 ==0) {
 			result = "Fizz";
