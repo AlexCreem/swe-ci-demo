@@ -17,7 +17,7 @@ public class FizzBuzz
         return result;
 	}
 	
-	String processNumbers (int[] numList)
+	String processNumbers (int[] nums)
 	{
     	String result = "";
         
